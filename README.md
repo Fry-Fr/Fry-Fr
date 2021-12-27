@@ -1,5 +1,5 @@
-### Hi there
-- 🔭 I’m working on a portfolio site
+### Hi there 🧤
+- 🔭 I’m currently working on a portfolio site
 - 🌱 I’m learning how to use figma, to build and utilize design systems.
 <!-- #### Github Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Fry-Fr&show_icons=true&theme=gotham" alt="github stats" width="50%" align="left"/>
