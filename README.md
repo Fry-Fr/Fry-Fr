@@ -1,5 +1,5 @@
 ### Hi there
-- 🌱 I’m currently learning figma (design systems)
+- 🌱 I’m currently learning how to use figma, to build and utilize design systems.
 <!-- #### Github Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Fry-Fr&show_icons=true&theme=gotham" alt="github stats" width="50%" align="left"/>
 <!-- ### Top Languages -->
