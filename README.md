@@ -1,5 +1,6 @@
 ### Hi there
-- 🌱 I’m currently learning how to use figma, to build and utilize design systems.
+- 🔭 I’m working on a portfolio site
+- 🌱 I’m learning how to use figma, to build and utilize design systems.
 <!-- #### Github Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=Fry-Fr&show_icons=true&theme=gotham" alt="github stats" width="50%" align="left"/>
 <!-- ### Top Languages -->
@@ -10,7 +11,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
