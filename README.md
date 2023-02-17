@@ -1,8 +1,8 @@
 ### Hi there 🧤
 <!-- #### Github Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Fry-Fr&show_icons=true&theme=gotham" alt="github stats" width="50%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Fry-Fr&show_icons=true&theme=gotham" alt="github stats" width="300vw" align="left"/>
 <!-- ### Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fry-Fr&layout=compact&theme=gotham" alt="top langs" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fry-Fr&layout=compact&theme=gotham" alt="top langs" width="300vw" align="left" />
 
 <!--
 **Fry-Fr/Fry-Fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
